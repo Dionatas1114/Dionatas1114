@@ -1,18 +1,14 @@
 Hi there 👋
-Hi!! I'm Diônatas, a brazilian 🇧🇷 Web developer under construction.
+I'm Diônatas, a brazilian 🔰 Web developer under construction 👨🏼‍💻.
 
-⚡ Technologies
+🤖 Technologies
 These are some of the technologies and tools that I work with:
+🎨#Front-end: 
+JavaScript, HTML5, CSS3, Sass, Bootstrap, React.js, Reactstrap Axios,
+🎲#Back-end:
+Node.js, Express, PostgresSQL
+🛠#Tools: GitHub, VSCode
 
-JavaScript Nodejs HTML5 CSS3 Sass Bootstrap PostgresSQL GitHub VSCode
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React.js
 
 Welcome to my Github page, look at my latest repos.
