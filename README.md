@@ -1,9 +1,5 @@
 Hi there 👋
-I'm Loiane Groner, and I'm a Software Engineer at Citibank and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
-
-I love contributing to the community with blog posts, videos, books and recently with code streaming.
-
-Twitter Follow Linkedin: loiane Youtube: loianegroner Twitch: loianegroner
+Hi!! I'm Diônatas, a brazilian 🇧🇷 Web developer under construction.
 
 ⚡ Technologies
 These are some of the technologies and tools that I work with:
@@ -18,4 +14,5 @@ JavaScript Nodejs HTML5 CSS3 Sass Bootstrap PostgresSQL GitHub VSCode
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Welcome to my Github page, look at my latest repos.
