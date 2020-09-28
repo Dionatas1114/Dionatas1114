@@ -1,9 +1,14 @@
-### Hi there 👋
+Hi there 👋
+I'm Loiane Groner, and I'm a Software Engineer at Citibank and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
 
-<!--
-**Dionatas1114/Dionatas1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love contributing to the community with blog posts, videos, books and recently with code streaming.
 
-Here are some ideas to get you started:
+Twitter Follow Linkedin: loiane Youtube: loianegroner Twitch: loianegroner
+
+⚡ Technologies
+These are some of the technologies and tools that I work with:
+
+JavaScript Nodejs HTML5 CSS3 Sass Bootstrap PostgresSQL GitHub VSCode
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
