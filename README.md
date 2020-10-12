@@ -1,4 +1,4 @@
-#Hi there# 👋 <br />
+#Hi there 👋 <br />
 I'm Diônatas, a brazilian 🔰 Web developer under construction 👨🏼‍💻.<br />
 🤖 Technologies:
 <p>These are some of the technologies and tools that I work with: <br />
