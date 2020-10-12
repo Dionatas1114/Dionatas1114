@@ -1,4 +1,4 @@
-<h1>Hi there</h1> 👋 <br />
+<h1>Hi there👋</h1>
 I'm Diônatas, a brazilian 🔰 Web developer under construction 👨🏼‍💻.<br />
 🤖 Technologies:
 <p>These are some of the technologies and tools that I work with: <br />
