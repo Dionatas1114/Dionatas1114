@@ -47,7 +47,7 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   &nbsp;
   
-  CI/CD && Tests:
+  CI/CD:
 
   ![Vagrant](https://img.shields.io/badge/Vagrant-1056C6?style=for-the-badge&logo=vagrant&logoColor=white)
   &nbsp;
@@ -55,7 +55,7 @@
   &nbsp;
   ![SonarQube](https://img.shields.io/badge/SonarQube-4A96CF?style=for-the-badge&logo=sonarqube&logoColor=white)
   &nbsp;
-  ![Jenkins](https://img.shields.io/badge/Jenkins-314D5E?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   &nbsp;
   
   ![Nexus](https://img.shields.io/badge/Nexus-9E9792?style=for-the-badge)
@@ -63,6 +63,19 @@
   ![SNYK](https://img.shields.io/badge/SNYK-4F5176?style=for-the-badge&logo=snyk&logoColor=white)
   &nbsp;
   ![Docker](https://img.shields.io/badge/Docker-008CDB?style=for-the-badge&logo=docker&logoColor=white)
+  &nbsp;
+  
+  Tests:
+  
+  ![JEST](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=Jest&logoColor=813754)
+  &nbsp;
+  ![MOCHA.JS](https://img.shields.io/badge/mocha.js-white?style=for-the-badge&logo=mocha&logoColor=Brown)
+  &nbsp;
+  ![CHAI.JS](https://img.shields.io/badge/chai.js-EFE2C2?style=for-the-badge&logo=chai&logoColor=red)
+  &nbsp;
+  ![SINON](https://img.shields.io/badge/sinon.js-97C79B?style=for-the-badge&logo=sinon)
+  &nbsp;
+  ![JUNIT](https://img.shields.io/badge/Junit-249C5F?style=for-the-badge&logo=JUNIT5&logoColor=D54F48)
   &nbsp;
   
   Tools:
