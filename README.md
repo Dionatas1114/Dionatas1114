@@ -1,94 +1,119 @@
+<h1 align = "center"> 🙋🏻‍♂️ Welcome, I'm  Diônatas Lazzari </h1>
+<h3 align = "center"> 🤖 Full Stack Developer jr | 🧉 Rio Grande do Sul | 🌎 Brazil </h3>
 
-<p align="center">
-  <img src="header.svg" />
-</p>
+<div align="right">
+  <h3> Where else to find me:</h3>
+  <a href="https://www.linkedin.com/in/dionatas-lazzari-dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="html5" width="40" height="40"/>
+  </a>
+</div>
 
 <div align="center">
-  
-  Where else to find me:
-  
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionatas-lazzari-dev/)
-  &nbsp;
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Dionatas1114&theme=blue-green)
-  
-  Some of the technologies that I already master:
+  <h3 align = "left"> Some of the technologies that I use in the Front-end: </h3>
+    <div align="left"> 
+ 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="50" height="50"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+</a>
+<a href="https://mui.com/pt/" target="_blank" rel="noreferrer"> 
+ <img src="https://mui.com/static/logo.png" alt="material UI" width="50" height="50"/> 
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="50" height="50"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="50" height="50"/> 
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" width="50" height="50"/> 
+</a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://styled-components.com/logo.png" alt="styled-components" width="50" height="50"/> 
+</a>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  &nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  &nbsp;
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3 align = "left"> Some of the technologies that I use in the Back-end: </h3>
 
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  &nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  &nbsp;
-  ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="45"/> 
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49CPLVKPAe1cslXaHnF20_Qwt-MiSoRen-vvYNoCmLkKwCQ1GtWdstwiUeDJ03RYu5ik&usqp=CAU" alt="expressjs" width="50" height="40"/> 
+</a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="35" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+</a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" alt="oracle" width="50" height="50"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="50" height="50"/> 
+</a>
 
-  ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  &nbsp;
-  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  &nbsp;
+<h3 align = "left"> Some of the technologies that I use in the tests: </h3>
 
-  Currently learning/improving:
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest" width="40" height="45"/> 
+</a>
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+  <img      src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" alt="mochajs" width="50" height="50"/> 
+</a>
+<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chaijs" width="50" height="50"/> 
+</a>
+<a href="https://sinonjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://sinonjs.org/assets/images/logo.png" alt="chaijs" width="50" height="50"/> 
+</a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png" alt="junit" width="50" height="50"/> 
+</a>
 
-  ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
-  &nbsp;
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  &nbsp;
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  &nbsp;
-  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-  &nbsp;
+<h3 align = "left"> This are others tools that I use: </h3>
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  &nbsp;
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  &nbsp;
-  
-  CI/CD:
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="50" height="50"/> 
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="50"/> 
+</a> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png" 
+ alt="ubuntu" width="50" height="50"/> 
+</a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> 
+</a>
 
-  ![Vagrant](https://img.shields.io/badge/Vagrant-1056C6?style=for-the-badge&logo=vagrant&logoColor=white)
-  &nbsp;
-  ![Ansible](https://img.shields.io/badge/Ansible-191817?style=for-the-badge&logo=ansible&logoColor=white)
-  &nbsp;
-  ![SonarQube](https://img.shields.io/badge/SonarQube-4A96CF?style=for-the-badge&logo=sonarqube&logoColor=white)
-  &nbsp;
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-  &nbsp;
-  
-  ![Nexus](https://img.shields.io/badge/Nexus-9E9792?style=for-the-badge)
-  &nbsp;
-  ![SNYK](https://img.shields.io/badge/SNYK-4F5176?style=for-the-badge&logo=snyk&logoColor=white)
-  &nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-008CDB?style=for-the-badge&logo=docker&logoColor=white)
-  &nbsp;
-  
-  Tests:
-  
-  ![JEST](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=Jest&logoColor=813754)
-  &nbsp;
-  ![MOCHA.JS](https://img.shields.io/badge/mocha.js-white?style=for-the-badge&logo=mocha&logoColor=Brown)
-  &nbsp;
-  ![CHAI.JS](https://img.shields.io/badge/chai.js-EFE2C2?style=for-the-badge&logo=chai&logoColor=red)
-  &nbsp;
-  ![SINON](https://img.shields.io/badge/sinon.js-97C79B?style=for-the-badge&logo=sinon)
-  &nbsp;
-  ![JUNIT](https://img.shields.io/badge/Junit-249C5F?style=for-the-badge&logo=JUNIT5&logoColor=D54F48)
-  &nbsp;
-  
-  Tools:
+</div>
 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  &nbsp;
+***
   
   If you want and can support me, this is my PIX:
   
   <p align="center">
-    <img src="pix.png" width="300" height="300"/>
+    <img src="pix.png" width="250" height="250"/>
   </p>
-
 </div>
