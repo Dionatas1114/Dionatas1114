@@ -107,6 +107,13 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> 
 </a>
 
+<h3 align = "left"> I contribute to the projects: </h3>
+
+| Project                                                 | Event Type | Event              |
+| ------------------------------------------------------- | ---------- | ------------------ |
+| [TechZap](https://github.com/Padilha27/ProviHack)       | Hackathon  | ProviHack          |
+| [Ifood](https://github.com/joaofelipecb/hackthon.ifood) | Hackathon  | 3° Hackathon iFood |
+
 </div>
 
 ***
