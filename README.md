@@ -1,5 +1,5 @@
 <h1 align = "center"> 🙋🏻‍♂️ Welcome, I'm  Diônatas Lazzari </h1>
-<h3 align = "center"> Full Stack Developer PL 🤖 | Rio Grande do Sul 🧉 | Brazil 🌎</h3>
+<h3 align = "center"> Developer PL 🤖 | Rio Grande do Sul 🧉 | Brazil 🌎</h3>
 
 <br/>
 
