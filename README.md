@@ -1,16 +1,11 @@
 <h1 align = "center"> 🙋🏻‍♂️ Welcome, I'm  Diônatas Lazzari </h1>
 <h3 align = "center"> Full Stack Developer jr 🤖 | Rio Grande do Sul 🧉 | Brazil 🌎</h3>
 
-<div align="right">
-  <h3> Where else to find me:</h3>
-  <a href="https://www.linkedin.com/in/dionatas-lazzari-dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="html5" width="40" height="40"/>
-  </a>
-</div>
+<br/>
 
 <div align="center">
   <h3 align = "left"> Some of the technologies that I use in the Front-end: </h3>
-    <div align="left"> 
+<div align="left"> 
  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
