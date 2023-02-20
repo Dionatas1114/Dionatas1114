@@ -108,6 +108,12 @@
 | ------------------------------------------------------- | ---------- | ------------------ |
 | [TechZap](https://github.com/Padilha27/ProviHack)       | Hackathon  | ProviHack          |
 | [Ifood](https://github.com/joaofelipecb/hackthon.ifood) | Hackathon  | 3° Hackathon iFood |
+  
+  <h3 align = "left"> The Projects that are running now: </h3>
+
+| Project                                                 | Stack      | Techs                       |
+| ------------------------------------------------------- | ---------- | --------------------------- |
+| [Financial-UI](https://financial-ui.bohr.io/)           | Front End  | React 18, TS 4.9, MUI v5    |
 
 </div>
 
