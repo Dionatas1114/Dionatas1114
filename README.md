@@ -111,9 +111,9 @@
   
   <h3 align = "left"> The Projects that are running now: </h3>
 
-| Project                                                 | Stack      | Techs                       |
-| ------------------------------------------------------- | ---------- | --------------------------- |
-| [Financial-UI](https://financial-ui.bohr.io/)           | Front End  | React 18, TS 4.9, MUI v5    |
+| Project       | Server1                              | Server2                                               | Stack      | Techs                       |
+| ------------- | ------------------------------------ | ----------------------------------------------------- | ---------- | --------------------------- |
+| Financial-UI  | [APP](https://financial-ui.bohr.io/) | [APP](https://dashing-madeleine-a0c40b.netlify.app/)  | Front End  | React 18, TS 4.9, MUI v5    |
 
 </div>
 
