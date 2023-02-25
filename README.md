@@ -3,10 +3,16 @@
 
 <br/>
 
+<div align="right"> 
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Dionatas1114)](linkedin.com/in/dionatas-lazzari-dev/)
+</div>
+
 <div align="center">
   <h3 align = "left"> Some of the technologies that I use in the Front-end: </h3>
-<div align="left"> 
- 
+  
+<div align="left">
+  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
