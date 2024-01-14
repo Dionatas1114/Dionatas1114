@@ -64,9 +64,6 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" alt="oracle" width="50" height="50"/> 
-</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" height="50"/> 
 </a>
@@ -75,9 +72,6 @@
 
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" width="40" height="45"/> 
-</a>
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-  <img      src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" alt="mochajs" width="50" height="50"/> 
 </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chaijs" width="50" height="50"/> 
