@@ -61,14 +61,14 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
 </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="css3" width="50" height="50"/> 
+</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" height="50"/> 
-</a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="css3" width="50" height="50"/> 
 </a>
 
 <h3 align = "left"> Some of the technologies that I use in the tests: </h3>
