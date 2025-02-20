@@ -52,9 +52,6 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49CPLVKPAe1cslXaHnF20_Qwt-MiSoRen-vvYNoCmLkKwCQ1GtWdstwiUeDJ03RYu5ik&usqp=CAU" alt="expressjs" width="50" height="40"/> 
 </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="35" height="40"/> 
-</a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50"/> 
 </a> 
