@@ -47,7 +47,7 @@
 <h3 align = "left"> Some of the technologies that I use in the Back-end: </h3>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="45"/> 
+  <img src="https://s3.amazonaws.com/clarityfm-production/attachments/32059/default/nodejs-512.png?1573156678" alt="nodejs" width="50" height="50"/> 
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49CPLVKPAe1cslXaHnF20_Qwt-MiSoRen-vvYNoCmLkKwCQ1GtWdstwiUeDJ03RYu5ik&usqp=CAU" alt="expressjs" width="50" height="40"/> 
